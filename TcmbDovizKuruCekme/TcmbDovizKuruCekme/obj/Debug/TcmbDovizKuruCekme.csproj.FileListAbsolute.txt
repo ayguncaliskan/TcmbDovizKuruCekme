@@ -1,0 +1,10 @@
+C:\Users\Aygun\source\repos\TcmbDovizKuruCekme\TcmbDovizKuruCekme\obj\Debug\TcmbDovizKuruCekme.csprojAssemblyReference.cache
+C:\Users\Aygun\source\repos\TcmbDovizKuruCekme\TcmbDovizKuruCekme\obj\Debug\TcmbDovizKuruCekme.Properties.Resources.resources
+C:\Users\Aygun\source\repos\TcmbDovizKuruCekme\TcmbDovizKuruCekme\obj\Debug\TcmbDovizKuruCekme.csproj.GenerateResource.cache
+C:\Users\Aygun\source\repos\TcmbDovizKuruCekme\TcmbDovizKuruCekme\obj\Debug\TcmbDovizKuruCekme.csproj.CoreCompileInputs.cache
+C:\Users\Aygun\source\repos\TcmbDovizKuruCekme\TcmbDovizKuruCekme\bin\Debug\TcmbDovizKuruCekme.exe.config
+C:\Users\Aygun\source\repos\TcmbDovizKuruCekme\TcmbDovizKuruCekme\bin\Debug\TcmbDovizKuruCekme.exe
+C:\Users\Aygun\source\repos\TcmbDovizKuruCekme\TcmbDovizKuruCekme\bin\Debug\TcmbDovizKuruCekme.pdb
+C:\Users\Aygun\source\repos\TcmbDovizKuruCekme\TcmbDovizKuruCekme\obj\Debug\TcmbDovizKuruCekme.exe
+C:\Users\Aygun\source\repos\TcmbDovizKuruCekme\TcmbDovizKuruCekme\obj\Debug\TcmbDovizKuruCekme.pdb
+C:\Users\Aygun\source\repos\TcmbDovizKuruCekme\TcmbDovizKuruCekme\obj\Debug\TcmbDovizKuruCekme.Form1.resources
